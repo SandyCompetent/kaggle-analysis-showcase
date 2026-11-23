@@ -270,7 +270,7 @@ def main():
     <div class="footer">
         <p>
             Built by Sandeep Malviya | 
-            <a href="https://www.linkedin.com/in/sandy-competent/" target="_blank">👔 LinkedIn</a> | 
+            <a href="https://www.linkedin.com/in/sandeep-malviya-ml/" target="_blank">👔 LinkedIn</a> | 
             <a href="https://github.com/SandyCompetent/Kaggle-Analysis-Showcase" target="_blank">💻 GitHub</a> | 
             <a href="mailto:sandy.competent@gmail.com">📧 Email</a>
         </p>
